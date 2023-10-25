@@ -1,4 +1,4 @@
-<img src="https://github.com/SuperPuiu/SuperPuiu/blob/main/PixelatedPuius.png"/> - SuperPuiu
+<img src="https://github.com/SuperPuiu/SuperPuiu/blob/main/PixelatedPuius.png"/>
 
 ## About:
 
