@@ -3,10 +3,11 @@
 </p>
 
 ## About:
-- [x] **Fedora user.**
+- [x] **Arch user.**
 - [x] **C / Lua programmer.**
 - [x] **Available during most of the week.**
 
 Currently working on:
 - _C programming language.
-- Unknown Operating System.
+- PuiusGUI library.
+- PuiusEdit.
