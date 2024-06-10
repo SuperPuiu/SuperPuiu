@@ -10,4 +10,4 @@
 Currently working on:
 - _C programming language.
 - PuiusGUI library.
-- PuiusEdit.
+- PuiusOS.
